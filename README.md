@@ -1,9 +1,9 @@
 ## React Native [Test]
 ## Screenshots
 
-|                |Details                          |Variant                        |
+| Splash Screen               |Theme mode 1                          |Theme mode 2                        |
 |----------------|-------------------------------|-----------------------------|
-|<img src="https://i.ibb.co/B4XvMWT/screenshot-1.jpg" alt="alt text" width="200"/>|<img src="https://i.ibb.co/B4XvMWT/screenshot-1.jpg" alt="alt text" width="200"/>            |`> Only`            |
+|<img src="https://i.ibb.co/B4XvMWT/screenshot-1.jpg" alt="alt text" width="200"/>|<img src="https://i.ibb.co/FDqM95W/screenshot-2.jpg" alt="alt text" width="200"/>            |<img src="https://i.ibb.co/jVV1G2b/screenshot-3.jpg" alt="alt text" width="200"/>            |
 
 *By: nusktecsoft@gmail.com*
 Program Requirements and specifications
