@@ -1,4 +1,8 @@
 ## React Native [Test]
+## Screenshots
+
+<img src="https://i.ibb.co/B4XvMWT/screenshot-1.jpg" alt="alt text" width="200"/>
+
 *By: nusktecsoft@gmail.com*
 Program Requirements and specifications
 
