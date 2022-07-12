@@ -4,9 +4,9 @@ Program Requirements and specifications
 
 |                |Details                          |Variant                        |
 |----------------|-------------------------------|-----------------------------|
-|React|`'v 18.0.0'`            |`> Only`            |
+|React|`v 18.0.0`            |`> Only`            |
 |React Native          |`v 0.69.1`            |`> Only`            |
-|Node          |`v 16.16.0`|`Type script | TSX`|
+|Node          |`v 16.16.0`|`Type script` | `TSX`|
 |APK File         |`v 1.0.0`|`./release-build/rn-app-release.apk`|
 |Data Source          |`Heroku`|`https://graph-mock.herokuapp.com/movies`|
 |Network Agent          |`GraphQL`|`apollo/agent`|
