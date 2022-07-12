@@ -1,0 +1,4 @@
+#Tue Jul 12 16:33:56 WAT 2022
+base.0=/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

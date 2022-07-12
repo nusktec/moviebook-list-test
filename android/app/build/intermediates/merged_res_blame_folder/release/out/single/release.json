@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_logo_x1500.png.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_logo_x1500.png"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/revelation/Works/Mobile/test/bookstore/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]

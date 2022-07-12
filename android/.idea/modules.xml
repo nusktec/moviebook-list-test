@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bookstore.iml" filepath="$PROJECT_DIR$/.idea/modules/bookstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bookstore.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bookstore.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/189603638/bookstore.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/189603638/bookstore.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1729345121/bookstore.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1729345121/bookstore.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1822511333/bookstore.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1822511333/bookstore.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/399686282/bookstore.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/399686282/bookstore.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1525800738/bookstore.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1525800738/bookstore.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-689445611/bookstore.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-689445611/bookstore.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/349255540/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/349255540/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
